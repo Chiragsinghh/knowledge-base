@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
+| [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsinghh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chiragsinghh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
+| [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
 ## Hash Table
 |  |
 | ------- |
