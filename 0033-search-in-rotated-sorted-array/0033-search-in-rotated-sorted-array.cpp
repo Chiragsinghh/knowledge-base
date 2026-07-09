@@ -1,58 +1,54 @@
 class Solution {
 public:
-    int findPivotIndex(vector<int>& nums){
-        int start=0;
-        int end=nums.size()-1;
-        int ans=-1;
-        if(nums[start]<nums[end]) return end;
-
-
-        while(start<=end){
-            int mid=(start+end)/2;
-            if(start==end) return mid;
-
+    int findpivot(vector<int>nums,int l,int r){
+        int ans =-1;
+        if(nums[l]<nums[r]){
+            return r;
+        }
+        while(l<=r){
+            int mid =(r+l)/2;
+            if(l==r) return mid;
             if(mid+1<nums.size() && nums[mid]>nums[mid+1]){
-                return mid;
+                ans = mid;
+                return ans;
+            }else if(mid-1>=0 && nums[mid]<nums[mid-1]){
+                ans = mid-1;
+                return ans;
             }
-            if(mid > start && nums[mid] < nums[mid - 1])
-                return mid - 1;
-
-            if(nums[mid] >= nums[start]){
-                start = mid + 1;
-            } else {
-                end = mid - 1;
+            else if(nums[mid]>nums[l]){
+                l=mid+1;
+            }else{
+                r=mid-1;
             }
         }
         return ans;
-}
+    }
+    int bsearch(vector<int>& nums,int start,int end,int target){
+        int ans =-1;
 
-    int binarysearch(int s,int e,vector<int>& nums,int target){
-        while(s<=e){
-            int mid=(s+e)/2;
-
+        while(start<=end){
+            int mid = start + (end-start)/2;
             if(nums[mid]==target){
                 return mid;
-            }
-            else if(nums[mid]<target){
-                s=mid+1;
-            }
-            else{
-                e=mid-1;
+            }if(nums[mid]>target){
+                end = mid-1;
+            }else{
+                start = mid+1;
             }
         }
-        return -1;
+        return ans;
     }
+    int search(vector<int>& nums, int target) {
+        int pivot =findpivot(nums,0,nums.size()-1);
+        cout<<pivot;
 
-    int search(vector<int>& nums, int target) {   
-        int pivotindex=findPivotIndex(nums);
-        int ans=-1;
+        int ans =-1;
+        if(target<= nums[pivot] && target>=nums[0]){
+            ans =bsearch(nums,0,pivot,target);
+        }else{
+            ans =bsearch(nums,pivot+1,nums.size()-1,target);
+        }
 
-        if(target>=nums[0] && target<=nums[pivotindex]){
-            ans=binarysearch(0,pivotindex,nums,target);
-        }
-        else{
-            ans=binarysearch(pivotindex+1,nums.size()-1,nums,target);
-        }
         return ans;
     }
 };
