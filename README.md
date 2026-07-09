@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Chiragsinghh/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsinghh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chiragsinghh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chiragsinghh/DSA/tree/master/0062-unique-paths) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiragsinghh/DSA/tree/master/0011-container-with-most-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chiragsinghh/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
