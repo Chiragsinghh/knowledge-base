@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Chiragsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chiragsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chiragsinghh/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -130,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Chiragsinghh/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Chiragsinghh/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
