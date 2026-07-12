@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Chiragsinghh/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Chiragsinghh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsinghh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chiragsinghh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
