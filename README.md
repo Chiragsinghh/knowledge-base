@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chiragsinghh/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Chiragsinghh/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chiragsinghh/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Chiragsinghh/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
