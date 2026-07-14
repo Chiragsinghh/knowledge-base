@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -160,10 +162,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chiragsinghh/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Chiragsinghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
