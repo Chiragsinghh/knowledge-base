@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chiragsinghh/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chiragsinghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
+| [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Chiragsinghh/DSA/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
 | ------- |
