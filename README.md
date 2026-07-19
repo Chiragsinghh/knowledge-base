@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiragsinghh/DSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
