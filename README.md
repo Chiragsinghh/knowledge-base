@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chiragsinghh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Chiragsinghh/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chiragsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chiragsinghh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chiragsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
