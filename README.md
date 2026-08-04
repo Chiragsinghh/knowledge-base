@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chiragsinghh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chiragsinghh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiragsinghh/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Combinatorics
 |  |
