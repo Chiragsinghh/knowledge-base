@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chiragsinghh/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chiragsinghh/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Chiragsinghh/DSA/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Chiragsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Chiragsinghh/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Chiragsinghh/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Chiragsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chiragsinghh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
