@@ -1,46 +1,43 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string ans = "";
-        stack<string> a;
+        int i=0;
+        int j= s.size()-1;
+        string ans ="";
 
-        int i = 0;
-        int n = s.size();
+        stack<string>a;
 
-        // Skip leading spaces
-        while (i < n && s[i] == ' ') {
+        while(s[i]==' ' && i<s.size()){
             i++;
         }
+        while(s[j]==' ' && j>=0){
+            j--;
+        }
 
-        while (i < n) {
-            string curr = "";
-
-            // Build one word
-            while (i < n && s[i] != ' ') {
-                curr.push_back(s[i]);
+        while (i <= j) {
+            string temp = "";
+            while (i <= j && s[i] != ' ') {
+                temp.push_back(s[i]);
                 i++;
             }
-
-            if (!curr.empty()) {
-                a.push(curr);
+            if (!temp.empty()) {
+                a.push(temp);
             }
-
-            // Skip multiple spaces
-            while (i < n && s[i] == ' ') {
+            while (i <= j && s[i] == ' ') {
                 i++;
             }
         }
 
-        // Pop words in reverse order
-        while (!a.empty()) {
-            ans += a.top();
+        while(!a.empty()){
+            ans = ans + a.top();
             a.pop();
-
-            if (!a.empty()) {
-                ans += " ";
+            if(!a.empty()){
+                ans = ans +" ";
             }
         }
 
         return ans;
+
+
     }
 };
