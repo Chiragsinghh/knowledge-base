@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chiragsinghh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Chiragsinghh/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsinghh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Chiragsinghh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Chiragsinghh/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Chiragsinghh/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Chiragsinghh/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 ## String Matching
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
