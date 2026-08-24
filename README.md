@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Chiragsinghh/DSA/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Chiragsinghh/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Chiragsinghh/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chiragsinghh/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Chiragsinghh/DSA/tree/master/0216-combination-sum-iii) |
 ## String Matching
 |  |
 | ------- |
