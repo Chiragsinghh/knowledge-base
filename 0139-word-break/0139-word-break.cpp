@@ -26,9 +26,24 @@ public:
         dp[start] = flag;
         return dp[start];
     }
+    bool solvedu(string s, vector<string>& wordDict,vector<bool>& dp){
+        for(int start=s.size() -1 ;start>=0 ;start--){
+            string word = "";
+            bool flag = false;
+            for(int i= start ;i<s.size();i++){
+                word=word+s[i];
+                if(check(word,wordDict)){
+                flag = flag || dp[i+1];
+                }
+            dp[start] = flag;
+            }
+        }
+
+        return dp[0];
+    }
     bool wordBreak(string s, vector<string>& wordDict) {
-        vector<int>dp(s.size(),-1);
-        return solve(s,wordDict,0,dp);
+        vector<bool>dp(s.size()+1,true);
+        return solvedu(s,wordDict,dp);
 
     }
 };
