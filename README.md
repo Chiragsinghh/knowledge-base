@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chiragsinghh/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Chiragsinghh/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Chiragsinghh/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chiragsinghh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chiragsinghh/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chiragsinghh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Chiragsinghh/DSA/tree/master/0076-minimum-window-substring) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Chiragsinghh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Chiragsinghh/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chiragsinghh/DSA/tree/master/0090-subsets-ii) |
@@ -359,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Chiragsinghh/DSA/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiragsinghh/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
