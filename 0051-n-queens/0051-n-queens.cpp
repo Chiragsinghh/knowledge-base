@@ -1,68 +1,65 @@
 class Solution {
 public:
-    void saveans(vector<vector<string>>& ans, vector<vector<char>>& board,
-                 int n) {
-        vector<string> output;
-        for (int i = 0; i < n; i++) {
-            string temp = "";
-            for (int j = 0; j < n; j++) {
-                temp += board[i][j];
+    void saveans(vector<vector<char>>&board,vector<vector<string>>&ans){
+        vector<string>temp;
+        for(int i=0;i<board.size();i++){
+            string word = "";
+            for(int j=0;j<board.size();j++){
+                word.push_back(board[i][j]);
             }
-            output.push_back(temp);
-        }
-        ans.push_back(output);
-        return;
-    }
-    bool isSafe(int n, vector<vector<char>>& board, int row, int col) {
-        for (int i = col; i >= 0; i--) {
-            if (board[row][i] == 'Q') {
-                return false;
-            }
-        }
-        int x = row - 1;
-        int y = col - 1;
-        while (x >= 0 && y >= 0) {
-            if (board[x][y] == 'Q') {
-                return false;
-            }
-            x--;
-            y--;
+            temp.push_back(word);
         }
 
-        // 3. Check lower-left diagonal (Row increases, Col decreases)
-        x = row + 1;
-        y = col - 1;
-        while (x < n && y >= 0) {
-            if (board[x][y] == 'Q') {
+        ans.push_back(temp);
+        return;
+    }
+    bool isSafe(vector<vector<char>>&board,int col ,int row){
+        for (int i = col; i >= 0; i--) {
+            if (board[row][i] == 'Q') return false;
+        }
+        int n = board.size();
+        int r = row-1;
+        int c = col-1;
+        while(r>=0 && c>=0){
+            if(board[r][c]=='Q'){
                 return false;
             }
-            x++;
-            y--;
+            r--;
+            c--;
+        }
+
+        r = row+1;
+        c = col-1;
+        while(r<n && c>=0){
+            if(board[r][c]=='Q'){
+                return false;
+            }
+            r++;
+            c--;
         }
 
         return true;
+
     }
-    void solve(int n, vector<vector<char>>& board, int col,
-               vector<vector<string>>& ans) {
-        if (col >= n) {
-            saveans(ans, board, n);
+    void solve(vector<vector<char>>&board,vector<vector<string>>&ans,int col){
+        if(col>=board.size()){
+            saveans(board,ans);
             return;
         }
 
-        for (int i = 0; i < n; i++) {
-            if (isSafe(n, board, i, col)) {
+        for(int i=0;i<board.size();i++){
+            if(isSafe(board,col,i)){
                 board[i][col] = 'Q';
-                solve(n, board, col + 1, ans);
+                solve(board,ans,col+1);
                 board[i][col] = '.';
             }
         }
+
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<vector<char>> board(n, vector<char>(n, '.'));
-
-        int col = 0;
-        solve(n, board, col, ans);
+        vector<vector<char>>board(n,vector<char>(n,'.'));
+        vector<vector<string>>ans;
+        solve(board,ans,0);
         return ans;
     }
 };
