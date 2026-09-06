@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Chiragsinghh/DSA/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/Chiragsinghh/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragsinghh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chiragsinghh/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chiragsinghh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chiragsinghh/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Chiragsinghh/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Chiragsinghh/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Chiragsinghh/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Chiragsinghh/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Chiragsinghh/DSA/tree/master/0151-reverse-words-in-a-string) |
