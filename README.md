@@ -199,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Chiragsinghh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Chiragsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chiragsinghh/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Chiragsinghh/DSA/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiragsinghh/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Chiragsinghh/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Chiragsinghh/DSA/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -396,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Chiragsinghh/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Chiragsinghh/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
