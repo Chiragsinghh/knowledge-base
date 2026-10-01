@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Chiragsinghh/DSA/tree/master/0901-online-stock-span) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chiragsinghh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
