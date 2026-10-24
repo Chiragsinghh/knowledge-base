@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
-    bool ans =true;
+    bool ans = true;
     long long prev = LONG_MIN;
-    vector<int>ino;
-    void solve(TreeNode* root){
+    void inorder(TreeNode* root,vector<int> &ino){
         if(!root) return;
-        solve(root->left);
-        if(prev>=root->val) ans = false;
+        inorder(root->left,ino);
+        if(prev >= root->val) ans = false;
         ino.push_back(root->val);
         prev = root->val;
-        solve(root->right);
-
+        inorder(root->right,ino);
     }
     bool isValidBST(TreeNode* root) {
-        if(!root) return true;
-        solve(root);
+        vector<int> ino;
+        inorder(root,ino);
         return ans;
     }
 };
