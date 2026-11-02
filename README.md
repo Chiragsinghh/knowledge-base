@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Chiragsinghh/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Chiragsinghh/DSA/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Chiragsinghh/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Chiragsinghh/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chiragsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Chiragsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Chiragsinghh/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chiragsinghh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chiragsinghh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chiragsinghh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chiragsinghh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Chiragsinghh/DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
@@ -540,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
