@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chiragsinghh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiragsinghh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Chiragsinghh/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Chiragsinghh/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Chiragsinghh/DSA/tree/master/0678-valid-parenthesis-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Chiragsinghh/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chiragsinghh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chiragsinghh/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Chiragsinghh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Chiragsinghh/DSA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Chiragsinghh/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Chiragsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chiragsinghh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiragsinghh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
