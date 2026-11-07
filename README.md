@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Chiragsinghh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Chiragsinghh/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chiragsinghh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Chiragsinghh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chiragsinghh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chiragsinghh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chiragsinghh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Chiragsinghh/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Chiragsinghh/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Chiragsinghh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Chiragsinghh/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Chiragsinghh/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiragsinghh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chiragsinghh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Chiragsinghh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
