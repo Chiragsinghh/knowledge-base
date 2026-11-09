@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chiragsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Chiragsinghh/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Chiragsinghh/DSA/tree/master/0904-fruit-into-baskets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chiragsinghh/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chiragsinghh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Chiragsinghh/DSA/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chiragsinghh/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Chiragsinghh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Chiragsinghh/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chiragsinghh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Chiragsinghh/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chiragsinghh/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiragsinghh/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Chiragsinghh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Chiragsinghh/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Chiragsinghh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Chiragsinghh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
