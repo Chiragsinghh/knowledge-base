@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chiragsinghh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chiragsinghh/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chiragsinghh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Chiragsinghh/DSA/tree/master/3665-twisted-mirror-path-count) |
