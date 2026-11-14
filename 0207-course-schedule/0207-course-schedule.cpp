@@ -1,38 +1,37 @@
 class Solution {
 public:
-    bool dfs(int src,vector<bool>&vis,vector<bool>&pathvis,unordered_map<int,vector<int>>&adj){
-        vis[src]=true;
-        pathvis[src]=true;
-
-        for(int nbr:adj[src]){
-            if(!vis[nbr]){
-                dfs(nbr,vis,pathvis,adj);
-            }
-            if(pathvis[nbr]){
-                return true;
+    void solve(int v,unordered_map<int,vector<int>>&adjlist,unordered_map<int,int>&indegree,vector<int>&ans){
+        queue<int>q;
+        for(int i=0;i<v;i++){
+            if(indegree[i]==0){
+                q.push(i);
             }
         }
-        pathvis[src]=false;
-        return false;
+        
+        while(!q.empty()){
+            auto node = q.front();
+            q.pop();
+            ans.push_back(node);
+            
+            for(auto nbr:adjlist[node]){
+                indegree[nbr]--;
+                if(indegree[nbr]==0) q.push(nbr);
+            }
+        }
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int,vector<int>>adj;
-        vector<bool>vis(numCourses,false);
-        vector<bool>pathvis(numCourses,false);
-        for(auto pair :prerequisites){
-            int u = pair[0];
-            int v=pair[1];
-
-            adj[v].push_back(u);
+        unordered_map<int ,vector<int>>adjlist;
+        unordered_map<int ,bool> visited;
+        unordered_map<int,int>indegree;
+        vector<int>ans;
+        for(auto node:prerequisites){
+            adjlist[node[1]].push_back(node[0]);
+            indegree[node[0]]++;
         }
-
-        for(auto pair:adj){
-            if(!vis[pair.first]){
-                if(dfs(pair.first,vis,pathvis,adj)){
-                    return false;
-                }
-            }
-        }
-        return true;
+       
+            solve(numCourses,adjlist,indegree,ans);
+        
+        return ans.size() == numCourses;
+        
     }
 };
