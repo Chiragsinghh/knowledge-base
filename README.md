@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Chiragsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Chiragsinghh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chiragsinghh/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Chiragsinghh/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Chiragsinghh/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Chiragsinghh/DSA/tree/master/1020-number-of-enclaves) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Chiragsinghh/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
@@ -613,4 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
