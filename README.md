@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chiragsinghh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chiragsinghh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chiragsinghh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiragsinghh/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chiragsinghh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chiragsinghh/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Chiragsinghh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chiragsinghh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chiragsinghh/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiragsinghh/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Chiragsinghh/DSA/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/Chiragsinghh/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Chiragsinghh/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Combinatorics
 |  |
 | ------- |
