@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Chiragsinghh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Chiragsinghh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiragsinghh/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Chiragsinghh/DSA/tree/master/0802-find-eventual-safe-states) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chiragsinghh/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Chiragsinghh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Chiragsinghh/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Chiragsinghh/DSA/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## String Matching
 |  |
 | ------- |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chiragsinghh/DSA/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Coloring
 |  |
 | ------- |
