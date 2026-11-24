@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Chiragsinghh/DSA/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Chiragsinghh/DSA/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Chiragsinghh/DSA/tree/master/0904-fruit-into-baskets) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Chiragsinghh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Chiragsinghh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chiragsinghh/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Chiragsinghh/DSA/tree/master/1254-number-of-closed-islands) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Chiragsinghh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiragsinghh/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Chiragsinghh/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Chiragsinghh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chiragsinghh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chiragsinghh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Chiragsinghh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Chiragsinghh/DSA/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Chiragsinghh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chiragsinghh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chiragsinghh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsinghh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chiragsinghh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chiragsinghh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chiragsinghh/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chiragsinghh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsinghh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chiragsinghh/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -445,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Chiragsinghh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Chiragsinghh/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Chiragsinghh/DSA/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chiragsinghh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Chiragsinghh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chiragsinghh/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -680,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Chiragsinghh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Chiragsinghh/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chiragsinghh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -691,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Chiragsinghh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Chiragsinghh/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
